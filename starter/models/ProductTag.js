@@ -18,3 +18,5 @@ ProductTag.init(
 );
 
 module.exports = ProductTag;
+
+

@@ -13,6 +13,7 @@ router.get('/', (req, res) => {
     }
 });
 
+
 router.get('/:id', (req, res) => {
   try {
   const CategoryData = await Product.findByPK(req.params.id, {
@@ -30,6 +31,7 @@ router.get('/:id', (req, res) => {
   // be sure to include its associated Products
 });
 
+
 router.post('/', (req, res) => {
   // create a new category
   try {
@@ -42,9 +44,11 @@ router.post('/', (req, res) => {
   }
 });
 
+
 router.put('/:id', (req, res) => {
   // update a category by its `id` value
 });
+
 
 router.delete('/:id', (req, res) => {
   // delete a category by its `id` value
@@ -64,4 +68,9 @@ router.delete('/:id', (req, res) => {
   }
   });
 
+
 module.exports = router;
+
+
+
+
