@@ -28,27 +28,20 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 Additional Expectations:
-n/a
+    n/a
 
 
 Assignment Example 1 Picture:    
     ![TBD](public/assets/website1.jpg)
 
-Assignment Example 2 Picture:
-    ![TBD](public/assets/website2.jpg)
 
-Assignment Example 3 Picture:
-    ![TBD](public/assets/website3.jpg)
-
-Assignment Example 4 Picture:
-    ![TBD](public/assets/website4.jpg)
 
 Git Repository link where finalzed project can be pulled:
-    https://github.com/laurabora118/uofa-module13-e-commerse-back-end-lsandura   
+    https://github.com/laurabora118/uofa-module13-ecommersebackend-lsandura  
 
 
-Git Page that shows finalized project results:
-    https://laurabora118.github.io/uofa-module13-e-commerse-back-end-lsandura  
+Git Page that shows finalized project results: (if applicable)
+    https://laurabora118.github.io/uofa-module13-ecommersebackend-lsandura 
 
 
 How to use, run or deploy a clone:
@@ -60,10 +53,5 @@ Video link of working app deployed: (if applicable)
 
 
 References:
-    1 - Assignment criteria received in UofA assignments
-
-    2 -
-
-    3 -
-
+    1 - Assignment criteria received in UofA assignments, starter code received
 
